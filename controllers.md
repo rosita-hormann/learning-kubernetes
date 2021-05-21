@@ -31,7 +31,7 @@ Ensure that all nodes run a copy of a specific pod.
 
 Supervisor process for pods carrying out batch jobs.
 
-Run individua; processes that need to run once and complete successfully.
+Run individual processes that need to run once and complete successfully.
 
 Typically Jobs are run as cron jobs.
 

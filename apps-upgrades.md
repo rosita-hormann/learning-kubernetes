@@ -18,7 +18,7 @@ kubectl rollout history deployment/navbar-deployment
 ### Rollback
 
 ```bash
-kubectl rollout undodeployment/navbar-deployment
+kubectl rollout undo deployment/navbar-deployment
 
-kubectl rollout undodeployment/navbar-deployment --to-revision=1 # check number revision
+kubectl rollout undo deployment/navbar-deployment --to-revision=1 # check number revision
 ```
