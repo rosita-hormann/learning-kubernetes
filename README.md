@@ -1,6 +1,8 @@
 # learning-kubernetes
 My personal repo for learning Kubernetes.
 
+## Resources:
+- [Kubernetes Tutorials](https://kubernetes.io/docs/tutorials/)
 ## Kubernetes
 
 The most popular open-source container orchestrator.

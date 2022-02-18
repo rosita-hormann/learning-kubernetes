@@ -44,11 +44,3 @@ kubectl scale --replicas=4 deploy/helloworld-deployment
 
 # (!) danger zone (!)
 kubectl delete all --all
-
-# -----------------------------------------------------
-# MINIKUBE
-
-# before everything:
-minikube start
-
-minikube service helloworld # go to web UI of service helloworld
