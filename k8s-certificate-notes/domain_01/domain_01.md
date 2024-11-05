@@ -33,6 +33,13 @@ then you can go
 kubectl get nodes
 ```
 
+to change defailt kubeconfig file and the default kubernetes master, use the following environment variable:
+
+```bash
+echo $KUBECONFIG
+echo $KUBERNETES_MASTER
+```
+
 # Minikube
 
 - Installation: https://kubernetes.io/docs/tasks/tools/install-minikube/
